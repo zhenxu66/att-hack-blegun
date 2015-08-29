@@ -25,3 +25,15 @@ proguard/
 
 # Log Files
 *.log
+
+.idea/
+
+gradle/
+gradlew
+gradlew.bat
+
+BleExample/BleExample.iml
+
+BleExample/import-summary.txt
+
+BLEGun/BLEGun.iml
